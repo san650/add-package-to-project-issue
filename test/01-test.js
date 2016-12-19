@@ -19,10 +19,10 @@ describe('01-test', function() {
   });
 
   it('foo test', function() {
-    assertPackage('ceibo');
+    assertPackage('ember-cli-mirage');
   });
 
   it('bar test', function() {
-    assertPackage('ceibo');
+    assertPackage('ember-cli-mirage');
   });
 });
