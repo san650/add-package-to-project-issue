@@ -1,0 +1,20 @@
+{
+  "name": "add-package-to-project-issue",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reproduce issue in ember-cli-addon-tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test/"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Santiago Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "ember-cli": "2.10.0",
+    "ember-cli-addon-tests": "^0.4.1",
+    "mocha": "^3.2.0"
+  }
+}
